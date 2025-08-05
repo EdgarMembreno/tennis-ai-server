@@ -8,7 +8,7 @@ from collections import Counter
 from tqdm import tqdm
 
 # Rutas
-MODELO_LSTM_PATH = "modelo_lstm_final.keras"
+MODELO_LSTM_PATH = "modelo_lstm_final.h5"
 LABELS_NPZ_PATH = "lstm_dataset_final_30frames_10step.npz"
 YOLO_MODEL_PATH = "yolov8n-pose.pt"
 
